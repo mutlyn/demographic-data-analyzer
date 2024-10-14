@@ -69,4 +69,5 @@ if print_data:
         'highest_earning_country': highest_earning_country,
         'highest_earning_country_percentage':
         highest_earning_country_percentage,
-        'top_IN_occupation': top_IN_occupation }
+        'top_IN_occupation': top_IN_occupation 
+        }
